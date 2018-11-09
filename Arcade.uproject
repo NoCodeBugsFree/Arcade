@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E6169AFB-431A-21F6-B7C8-3CBB69B83303}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Arcade",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
